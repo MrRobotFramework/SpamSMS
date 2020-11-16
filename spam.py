@@ -111,12 +111,13 @@ while True:
 		██████████▄▄▄▄▄▄▄██████████
 		███████████████████████████
 		
-	   Suscbribe My Channel : MrRobot Framework
+	        Youtube : MrRobot Framework
+		Youtube : MrRobot Learn To Hack
 
 ============================================================
  
-[1] 5X / JAM
-[2] 1X / MENIT ( UNLIMITED )
+[1] Maks 5X / JAM
+[2] Hanya 1X / MENIT ( UNLIMITED )
 	""")
 		pil=int(input("> Nomor : "))
 		print("="*25)
