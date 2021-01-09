@@ -112,7 +112,7 @@ while True:
 		███████████████████████████
 		
 	        Youtube : MrRobot Framework
-		Youtube : MrRobot Learn To Hack
+		Telegram : MrRobot Corp
 
 ============================================================
  
